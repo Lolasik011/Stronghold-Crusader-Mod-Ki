@@ -1,0 +1,19 @@
+Economy:
+1. Stockpile |x2
+2. Granary |x1
+3. Armory |x2
+4. Marketplace |x1
+5. Hause |x7
+5. Unterkünfte/Mercenary Post/Engineers Guild |x1
+6. Fletcher |x5
+7. Poleturner |x4
+8. Water trough/Well |x4
+
+Defense:
+1. Gatehouses |x2
+2. Defense tower |x2
+3. Observation tower |x2
+4. bow |x10
+5. slr |x10
+6. spre |x10
+7. sbw |x10

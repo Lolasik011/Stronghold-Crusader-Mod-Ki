@@ -1,0 +1,19 @@
+Wirtschaft:
+1. Vorratslager x2
+2. Kornspeicher x1
+3. Waffenkammer x1
+4. Marktplatz x1
+5. Hütten x7 +3
+5. Unterkünfte,Baumeistergilde
+6. Pfeilmacherei x3
+7. Gerberei x6
+8. Schmiede x4
+9. Wassertrog/Brunnen x5
+10. Strafen und andere Schrecken x16
+11. Mörderlöcher x50
+
+Ferteidigung:
+1. Torhäuser x5
+2. Quadratischer Turm x3
+3. xbow x10
+4. mace x10
