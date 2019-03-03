@@ -1,0 +1,21 @@
+Economy:
+1. Stockpile |x3
+2. Granary |x1
+3. Armory |x2
+4. Marketplace |x1
+5. Hause |x18
+5. Barracks/Mercenary Post/Engineers Guild,Oil smelter |x1
+6. Brewery |x3
+7. Fletcher |x3
+8. Tanner |x3
+9. Blacksmith |x2
+10. Armourer |x3
+11. Poleturner |x2
+12. Inn |x4
+13. Chapel |x2
+14. Church |x1
+15. Healer |x1
+16. Water trough/Well |x5
+17. Punishments and other horrors |x15
+18. Killing pit |x100 
+19. Pich |-

@@ -4,7 +4,7 @@ Economy:
 3. Armory |x2
 4. Marketplace |x1
 5. Hause |x7
-5. Unterkünfte/Mercenary Post/Engineers Guild |x1
+5. Barracks/Mercenary Post/Engineers Guild |x1
 6. Fletcher |x5
 7. Poleturner |x4
 8. Water trough/Well |x4
