@@ -14,26 +14,10 @@ Install: Download my Mod Castles. Open my folder with 7-zip or Winrar. In the Mo
 # The Rat 
 ![Bild von The Rat](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/The%20Rat.png?raw=true)
 
-# Economy:
-1. Stockpile |x1
-2. Granary |x1
-3. Armory |x1
-4. Marketplace |x1
-5. Hause |x4
-5. Barracks |x1
-6. Fletcher |x2
-7. Poleturner |x3
 
 # The Snake
 ![Bild von The Snake](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/The%20Snake.png?raw=true)
 
-# Economy:
-1. Stockpile |x2
-2. Granary |x1
-3. Armory |x2
-4. Marketplace |x1
-5. Hause |x7
-5. Unterkünfte/Mercenary Post/Engineers Guild |x1
-6. Fletcher |x5
-7. Poleturner |x4
-8. Water trough/Well |x4
+
+# The Pig
+![Bild von The Pig](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/003%20The%20Pig.png?raw=true)
