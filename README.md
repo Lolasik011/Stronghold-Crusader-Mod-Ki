@@ -21,7 +21,7 @@ Install: Download my Mod Castles. Open my folder with 7-zip or Winrar. In the Mo
 
 
 # The Pig
-![Bild von The Pig](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/%20The%20Pig.png?raw=true)
+![Bild von The Pig](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/The%20Pig.png?raw=true)
 
 
 # The Wolf 
