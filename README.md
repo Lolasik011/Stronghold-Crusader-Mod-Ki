@@ -32,3 +32,6 @@ Install: Download my Mod Castles. Open my folder with 7-zip or Winrar. In the Mo
 
 # The Sultan 
 ![Bild von The Sultan](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/The%20Sultan.png?raw=true)
+
+# Richard the Lionheart
+![Bild von Richard the Lionheart](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/Richard%20the%20Lionheart.png?raw=true)
