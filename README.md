@@ -35,3 +35,6 @@ Install: Download my Mod Castles. Open my folder with 7-zip or Winrar. In the Mo
 
 # Richard the Lionheart
 ![Bild von Richard](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/Richard%20the%20Lionheart.png?raw=true)
+
+# The Caliph
+![Bild von The Caliph](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/The%20Caliph.png?raw=true)
