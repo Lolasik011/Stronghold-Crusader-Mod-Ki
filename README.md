@@ -42,3 +42,6 @@ Install: Download my Mod Castles. Open my folder with 7-zip or Winrar. In the Mo
 # Kaiser Friedrich
 ![Bild von Friedrich](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/Kaiser%20Friedrich.png?raw=true)
 
+# King Philippe
+![Bild von Philippe](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/King%20Philippe.png?raw=true)
+
