@@ -53,6 +53,11 @@ Install: Download my Mod Castles. Open my folder with 7-zip or Winrar. In the Mo
 # King Philippe
 ![Bild von Philippe](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/King%20Philippe.png?raw=true)
 
+# The Nizar
+![Bild von Nizar](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/The%20Nizar.png?raw=true)
+
+I asked Evrey if I could inspect his Nizar. He gave me the answer that I can take over his concept happy. So I took the concept and changed it a little bit to make Vaniller look happier.
+
 
 # The Sheriff
 ![Bild von Sheriff](https://github.com/BonnieyTzw/Stronghold-Crusader-Mod-Ki/blob/master/Images/The%20Sheriff.png?raw=true)
