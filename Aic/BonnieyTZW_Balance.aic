@@ -2,18 +2,83 @@ AIFileHeader
 {
 	DescrGer
 	{
+		Darauf ausgelegt, nahe an den Originalcharakteren der Lords zu bleiben, stärkt dieser Patch die schwachen Gegner etwas, und behebt Probleme.
+		Manche KIs wurden so überarbeitet, dass sie besser zur Charakterbeschreibung passen.
 		
 		
+		
+		Einige Beispiele:
+		- Ratte baut mehr Verteidigungstruppen und besetzt diese auch neu, wenn sie nicht unter Druck steht.
+		- Schwein rekrutiert Einheiten für Raids.
+		- Wolf baut mehr Eisenminen, dafür 2 Holzfäller weniger und rekrutiert mehr Verteidigungstruppen.
+		- Richard Löwenherz setzt mehr Tunnelgräber bei Belagerungen ein.
+		- Wazir setzt noch mehr auf berittene Bogenschützen.
+		- Philipp baut auch einige Pikeniere, und setzt Ritter für Angriffe ein.
+		- Kalif schickt mehr Sklaven.
+		- Friedrich setzt für Ausfälle einige Ritter ein anstatt Schwertkämpfern.
+		- Sultan baut Feuerwerfer nach und rekrutiert auch einige wenige arabische Bogenschützen zur Verteidigung.
+		- Wazir kauft Nahrung nach.
+		- Friedrich, Emir, Abt und Marschall kaufen Ausrüstung nach.
 	}	
 	DescrEng	
 	{
+		Aiming to stay as near at each AI Lord's original personality, this patch 
+		- slightly improves weaker AI Lords
+		- fixes problems
+		- alters some opponents so they fit their ingame description a lot better.
 		
+		
+		Some examples:
+		- The Rat recruits more defensive units and retrains them once they have been killed, even if not loosing horribly.
+		- The Pig recruits raiding units.
+		- The Wolf builds more iron mines and recruits more units to defend his fortress.
+		- Richard Lionheart uses more tunnelers for sieges.
+		- The Wazir sends even more horse archers into battle to get on your nerves.
+		- King Philipp recruits some pikemen as well and uses his royal knights for attacks as well.
+		- Emperor Frederick sends a few knights for sortie instead of slow swordsmen.
+		- The Sultan retrains fire throwers and recruits arabian archers for defense.
+		- The Wazir buys bread.
+		- Emperor Frederick, The Emir, The Abbot and The Marshal are allowed to buy equipment for their soldiers.
 	}
 	DescrPol
+		{
+		Aiming to stay as near at each AI Lord's original personality, this patch 
+		- slightly improves weaker AI Lords
+		- fixes problems
+		- alters some opponents so they fit their ingame description a lot better.
 		
+		
+		Some examples:
+		- The Rat recruits more defensive units and retrains them once they have been killed, even if not loosing horribly.
+		- The Pig recruits raiding units.
+		- The Wolf builds more iron mines and recruits more units to defend his fortress.
+		- Richard Lionheart uses more tunnelers for sieges.
+		- The Wazir sends even more horse archers into battle to get on your nerves.
+		- King Philipp recruits some pikemen as well and uses his royal knights for attacks as well.
+		- Emperor Frederick sends a few knights for sortie instead of slow swordsmen.
+		- The Sultan retrains fire throwers and recruits arabian archers for defense.
+		- The Wazir buys bread.
+		- Emperor Frederick, The Emir, The Abbot and The Marshal are allowed to buy equipment for their soldiers.
 	}
 	DescrRus
+		{
+		Aiming to stay as near at each AI Lord's original personality, this patch 
+		- slightly improves weaker AI Lords
+		- fixes problems
+		- alters some opponents so they fit their ingame description a lot better.
 		
+		
+		Some examples:
+		- The Rat recruits more defensive units and retrains them once they have been killed, even if not loosing horribly.
+		- The Pig recruits raiding units.
+		- The Wolf builds more iron mines and recruits more units to defend his fortress.
+		- Richard Lionheart uses more tunnelers for sieges.
+		- The Wazir sends even more horse archers into battle to get on your nerves.
+		- King Philipp recruits some pikemen as well and uses his royal knights for attacks as well.
+		- Emperor Frederick sends a few knights for sortie instead of slow swordsmen.
+		- The Sultan retrains fire throwers and recruits arabian archers for defense.
+		- The Wazir buys bread.
+		- Emperor Frederick, The Emir, The Abbot and The Marshal are allowed to buy equipment for their soldiers.
 	}
 }
 
@@ -232,7 +297,7 @@ AICharacter
 		MaxIronmines	= 1
 		MaxWoodcutters	= 10
 		MaxPitchrigs	= 0
-		MaxFarms	= 8
+		MaxFarms	= 10
 		BuildInterval	= 2
 		ResourceRebuildDelay	= 40
 		MaxFood	= 100
@@ -266,11 +331,11 @@ AICharacter
 		SellResource08	= None
 		SellResource09	= Crossbows
 		SellResource10	= Spears
-		SellResource11	= Pikes
+		SellResource11	= None
 		SellResource12	= Maces
-		SellResource13	= Swords
+		SellResource13	= None
 		SellResource14	= LeatherArmors
-		SellResource15	= IronArmors
+		SellResource15	= None
 		Unknown068	= 2
 		Unknown069	= 3
 		DefSiegeEngineGoldThreshold	= 100
@@ -290,8 +355,8 @@ AICharacter
 		SortieUnitRanged	= EuropArcher
 		SortieUnitMeleeMax	= 25
 		SortieUnitMelee	= Monk
-		DefDiggingUnitMax	= 4
-		DefDiggingUnit	= EuropArcher
+		DefDiggingUnitMax	= 12
+		DefDiggingUnit	= Pikeman
 		RecruitInterval	= 1
 		RecruitIntervalWeak	= 1
 		RecruitIntervalStrong	= 1
@@ -347,8 +412,8 @@ AICharacter
 		Unknown141	= 10000
 		Unknown142	= 0
 		AttMaxEngineers	= 16
-		AttDiggingUnit	= EuropArcher
-		AttDiggingUnitMax	= 30
+		AttDiggingUnit	= Pikeman
+		AttDiggingUnitMax	= 40
 		AttUnit2	= None
 		AttUnit2Max	= 0
 		AttMaxAssassins	= 0
@@ -366,7 +431,7 @@ AICharacter
 		AttUnitSiegeDefMax	= 0
 		Unknown161	= 0
 		AttUnitMain1	= Monk
-		AttUnitMain2	= None
+		AttUnitMain2	= Swordsman
 		Unknown164	= 0
 		Unknown165	= 0
 		AttMaxDefault	= 200
@@ -2487,7 +2552,7 @@ AICharacter
 		AttDiggingUnitMax	= 80
 		AttUnit2	= EuropArcher
 		AttUnit2Max	= 25
-		AttMaxAssassins	= 0
+		AttMaxAssassins	= 15
 		AttMaxLaddermen	= 10
 		AttMaxTunnelers	= 0
 		AttUnitRangedPush	= Slinger
